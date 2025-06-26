@@ -23,10 +23,4 @@ Derived State & Immutability
 ![image](https://github.com/user-attachments/assets/4220bfd0-bc96-4e83-b2f1-15dc9039d0c0)
 
 
-##其他功能
-
-- 支援玩家改名
-- 回合紀錄 Log
-- 自動判斷勝負與平手
-
 
