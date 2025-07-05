@@ -1,4 +1,3 @@
-[🔗 GitHub 部署頁面](https://bruce-159.github.io/react-tic-tac-toe-game/)
 
 這是一個使用 React 製作的井字遊戲（Tic-Tac-Toe），作為我學習 React 過程中的練習專案。專案涵蓋了多個 React 核心概念，例如 component 組合、props、state 管理、事件處理、條件渲染、狀態提升等，並採用了模組化與可維護的程式架構。
 
